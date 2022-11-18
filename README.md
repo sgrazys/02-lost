@@ -10,6 +10,8 @@ Webpage published at: [sgrazys.github.io/02-lost/](https://sgrazys.github.io/02-
 
 Design: [Lost](./img/design.jpg)
 
+<br>
+
 ## 🎯 Project features/goals
 - Github pages
 - Basic [HTML(structure)](https://www.w3schools.com/TAGS/default.asp) and [CSS(styles)](https://www.w3schools.com/html/html_css.asp)
@@ -17,6 +19,8 @@ Design: [Lost](./img/design.jpg)
 - Markdown
 - Practice HTML and CSS
 - **Nav bar**
+
+<br>
 
 ## 💻 Prerequisites
 
@@ -46,18 +50,24 @@ npm i
 ```
 npm run dev
 ```
+<br>
 
-### 🧪 Tests
+## 🧪 Tests
 No tests for this project.
 
+<br>
 
 ## 🥸 Authors
 
 Saulius: [Github](https://github.com/sgrazys)
 
+<br>
+
 ## 🔗 Other resources
 
 No other resouces.
+
+<br>
 
 ## 📫 Reach me
 - [LinkedIn](https://www.linkedin.com/in/saulius-grazys/)
