@@ -1,5 +1,5 @@
 # LOST (**developing**) 
-_website design project_ 
+_website design project_ | **Only Desktop**
 
 <br>
 
