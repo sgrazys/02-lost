@@ -1,0 +1,123 @@
+body {
+    margin: 0; 
+    padding:0;
+}
+
+.main-header {
+    display: inline-block; 
+    width: 100%;
+}
+
+.logo {
+    display: inline-block; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700; 
+    font-size: 30px; 
+    color: black; 
+    margin: 0; 
+    margin-block-start: 1em;
+    margin-block-end: 1em; 
+    margin-left: 20%; 
+}
+
+.main-nav {
+    display: inline-block; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 20px;
+    margin-left: 35%; 
+}
+
+.main-nav > .header-link {
+    text-decoration: none; 
+    color: black;
+    padding-left: 25px ;
+}
+
+.main-nav > .link:first-child {
+    padding-left: 0;
+}
+
+.main-content {
+    display: inline-block; 
+    width: 70%; 
+    margin-left: 20%; 
+    margin-top: 40px; 
+}
+
+.left-col {
+    width: 50%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial,      sans-serif; 
+    margin-top: 70px; float: left; 
+}
+
+.number {
+    margin: 0; 
+    font-size: 55px;
+}
+
+.main-title {
+    font-size: 60px; 
+    margin: 0px;
+}
+
+.divider {
+    width: 116px; 
+    margin: 0; 
+    margin-top: 10px; 
+    margin-left: 4px ;
+    height: 4px; 
+    background-color: #50337B; 
+    border: none;
+}
+
+.description {
+    color:grey ; 
+    margin-top: 30px; 
+    margin-bottom: 40px ; 
+    font-size: 16px; 
+    line-height: 20px;
+}
+
+.btn1 {
+    text-transform: uppercase; background-color:#50337B; 
+    color:white; 
+    font-size: 14px; 
+    text-decoration: none; 
+    border-radius: 26px; 
+    padding:15px 40px; display: inline-block;
+}
+
+.btn2 {
+    text-transform: uppercase; 
+    border:2px solid #50337B; 
+    color:#50337B; 
+    font-size: 14px; 
+    text-decoration: none; 
+    border-radius: 24px; 
+    padding: 13px 40px; 
+    display: inline-block; 
+    margin-left: 20px;
+}
+
+.right-col {
+    width: 47%; 
+    float: left;
+}
+
+.main-footer {
+    display: inline-block; 
+    width: 100%; 
+    margin-top: 70px;
+}
+
+.footer-link:first-child {
+    margin-left: 20%;
+}
+
+.copy-right {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 14px; 
+    float: right; 
+    margin-right: 20%;
+    margin-top: 0;
+}
